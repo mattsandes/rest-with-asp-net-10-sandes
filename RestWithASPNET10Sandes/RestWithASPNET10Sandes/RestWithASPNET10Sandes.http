@@ -1,0 +1,6 @@
+@RestWithASPNET10Sandes_HostAddress = http://localhost:5014
+
+GET {{RestWithASPNET10Sandes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
